@@ -1,0 +1,9 @@
+                 precision    recall  f1-score   support
+
+   Benign cases       1.00      1.00      1.00        90
+Malignant cases       1.00      1.00      1.00        90
+   Normal cases       1.00      1.00      1.00        90
+
+       accuracy                           1.00       270
+      macro avg       1.00      1.00      1.00       270
+   weighted avg       1.00      1.00      1.00       270
